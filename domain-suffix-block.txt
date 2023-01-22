@@ -15,4 +15,3 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
-  - AND,((GEOSITE,YOUTUBE),(NETWORK,UDP))
